@@ -1,0 +1,3 @@
+now we're collaborating!
+
+try learning about .gitignore files
